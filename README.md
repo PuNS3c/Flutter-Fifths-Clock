@@ -1,19 +1,5 @@
-<component name="libraryTable">
-  <library name="Dart SDK">
-    <CLASSES>
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/async" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/collection" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/convert" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/core" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/developer" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/html" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/io" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/isolate" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/math" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/mirrors" />
-      <root url="file:///home/jarvis/Downloads/flutter/bin/cache/dart-sdk/lib/typed_data" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
+# Flutter Fifths clock
+This clock is for the flutter competition. 
+The idea is to represent the circle of fifths and fourth. 
+The outer circle completes a cicle every 12 hours, and the inner circle completes a cicle every 1 hour.
+So you can tell what time it is by combining the notes. 
